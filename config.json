@@ -1,0 +1,27 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/ritikfirst",
+    "prod_uri": "mysql://root:@localhost/ritikfirst",
+    "fb_url": "https://www.facebook.com/ritik.sharms.946",
+    "insta_url": "https://www.instagram.com/hritik_sharma_16/",
+    "gmail-user":"ritikscreation@gmail.com",
+    "gmail-password": "hackerritik",
+    "no_of_posts": 2 ,
+    "blog_name": "Ritik'sCreation",
+    "login_image": "login.svg",
+    "admin_user": "Ritik",
+    "admin_password": "hackerritik",
+    "upload_location": "C:\\Users\\riya sharma\\PycharmProjects\\flaskproject\\static"
+
+
+  }
+
+
+}
+
+
+
+
+
